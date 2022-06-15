@@ -12,8 +12,5 @@
     { "id": 1, "description": "ETH", "quantity": 7, "date": "2022/04/11", "value": 0.00 },
     { "id": 1, "description": "ETH", "quantity": 15, "date": "2022/04/11", "value": 0.00 },
     { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
-  ],
-  "empresa": {
-    "nome": "Code Prestige"
-  }
+  ]
 }
