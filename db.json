@@ -11,5 +11,122 @@
     { "id": 1, "description": "ETH", "quantity": 1, "date": "2022/04/11", "value": 0.00 },
     { "id": 1, "description": "ETH", "quantity": 7, "date": "2022/04/11", "value": 0.00 },
     { "id": 1, "description": "ETH", "quantity": 15, "date": "2022/04/11", "value": 0.00 }
+  ],
+    "data": [
+
+    {
+
+      "id": "1e31218a-e44e-4285-820c-8282ee222035",
+
+      "symbol": "BTC",
+
+      "name": "Bitcoin",
+
+      "slug": "bitcoin",
+
+      "metrics": {
+
+        "market_data": {
+
+          "price_usd": 20104.374401405847,
+
+          "percent_change_usd_last_1_hour": 15.5,
+
+          "ohlcv_last_1_hour": {
+
+            "higth": 3255.8948,
+
+            "low": 4325.4848
+
+          }
+
+        },
+
+        "marketcap": {
+
+          "marketcap_dominance_percent": 42.72869073864941
+
+        }
+
+      }
+
+    },
+
+    {
+
+      "id": "21c795f5-1bfd-40c3-858e-e9d7e820c6d0",
+
+      "symbol": "ETH",
+
+      "name": "Ethereum",
+
+      "slug": "ethereum",
+
+      "metrics": {
+
+        "market_data": {
+
+          "price_usd": 1134.2226971941598,
+
+          "percent_change_usd_last_1_hour": 189.5,
+
+          "ohlcv_last_1_hour": {
+
+            "higth": 3255.8948,
+
+            "low": 4567.4848
+
+          }
+
+        },
+
+        "marketcap": {
+
+          "marketcap_dominance_percent": 15.34322302232744
+
+        }
+
+      }
+
+    },
+
+    {
+
+      "id": "51f8ea5e-f426-4f40-939a-db7e05495374",
+
+      "symbol": "USDT",
+
+      "name": "Tether",
+
+      "slug": "tether",
+
+      "metrics": {
+
+        "market_data": {
+
+          "price_usd": 0.9988058098901434,
+
+          "percent_change_usd_last_1_hour": 98.5,
+
+          "ohlcv_last_1_hour": {
+
+            "higth": 3255.8948,
+
+            "low": 86748.4848
+
+          }
+
+        },
+
+        "marketcap": {
+
+          "marketcap_dominance_percent": 7.342909975676054
+
+        }
+
+      }
+
+    }
+
   ]
 }
